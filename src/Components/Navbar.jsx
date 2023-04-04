@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Link } from 'react-scroll';
+import logo from'../assets/My_logo.png'
 
 
 const Navbar = () => {
@@ -49,7 +50,7 @@ const Navbar = () => {
     <div className='flex justify-between items-center w-full h-20
     text-white fixed px-4 bg-black'>
         <div>
-            <h1 className='text-5xl font-signature ml-2'>Mahima</h1>
+        <img src={logo} alt="my logo" className='ml-2 w-40'/>
         </div>
 
         <ul className='hidden md:flex'>
