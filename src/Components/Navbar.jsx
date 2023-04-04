@@ -31,16 +31,11 @@ const Navbar = () => {
         },
         {
             id:5,
-            link:"experience",
-
-        },
-        {
-            id:6,
             link:"Blogs",
 
         },
         {
-            id:7,
+            id:6,
             link:"Contacts",
 
         },
@@ -60,7 +55,7 @@ const Navbar = () => {
             ))}
        </ul>
 
-       <div onClick={()=> setNav(!nav)} className='cursor-pointer text-gray-400 pr-3 z-10  md:hidden'>
+       <div onClick={()=> setNav(!nav)} className='cursor-pointer text-gray-400 pr-3 z-12  md:hidden'>
         {
             nav ? <FaTimes size={30}/> : <FaBars size={30}/>
         }

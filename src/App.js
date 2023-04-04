@@ -6,6 +6,7 @@ import Projects from './Components/Projects';
 import Skills from './Components/Skills';
 import Sociallinks from './Components/Sociallinks';
 import Contacts from './Components/Contacts'
+import Blog from './Components/Blog';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Skills/>
       <Projects/>
       <Sociallinks/>
+      <Blog/>
       <Contacts/>
     </div>
 
