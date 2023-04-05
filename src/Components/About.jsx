@@ -8,7 +8,7 @@ const About = () => {
             <p className=' text-4xl font-bold inline border-b-4 border-gray-500'>About Me</p>
         </div>
         <p className=' text-xl mt-18 text-justify'>Hello, I am Mahima Churi a third-year CS student from India, a Full Stack Web Developer who likes to build stuff that leads to an efficient mark. 
-          I am Highly responsible and organized individual with excellent writing, communication, and critical thinking abilities along with a deep understanding of web technologies and programming languages such as 
+          I am Highly responsible and organized individual with excellent writing and communication skills, along with critical thinking abilities and a deep understanding of web technologies and programming languages such as 
           HTML, CSS, JavaScript, and various server-side languages (Python, PHP, or Node.js).</p>
         <br/>
         <p className='text-xl text-justify'> At the Institute level, I have worked on modest projects and improved my coding abilities. I have a love for building superior web applications that provide outstanding user experiences. Building effective applications that meet community requirements using various front-end frameworks, 
