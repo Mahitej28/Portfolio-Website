@@ -15,7 +15,7 @@
 
 ## 👀 Screenshots
 <div align="center">
-<img src ="/assets/1.png" width="500px">
+<img src ="src/assets/1.png" width="500px">
 </div>
 
 ## ✍ Author
