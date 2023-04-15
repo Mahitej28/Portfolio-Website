@@ -3,15 +3,13 @@
 
 <b> Webiste Link ➡️ [here](unrivaled-cajeta-1ebcbd.netlify.app/)</b>
 
-## 📓 Tools used
-<b>IDE:</b> VS Code <br>
-<b>Front-End:</b><br>
-Recat JS<br>
-Tailwind CSS<br>
-<b>Other:</b><br>
-npm pacakage manager<br>
-Getform.io for <br>
-uiverse.io<br>
+
+## 🛠 Tools used
+| Tools             |Applied                                                              |
+| ----------------- | ------------------------------------------------------------------ |
+| IDE | VSCode |
+| Frontend | ReactJS, Tailwind CSS|
+| Other | npm, Getform.io, uiverse.io|
 
 
 
