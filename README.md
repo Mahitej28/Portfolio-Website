@@ -14,8 +14,9 @@
 
 
 ## 👀 Screenshots
-<div align="center">
-<img src ="src/assets/1.png" width="500px">
+<div>
+<img src ="src/assets/Screenshot 2023-04-15 111208.png" width="500px">
+<img src ="src/assets/2.png" width="500px">
 </div>
 
 ## ✍ Author
