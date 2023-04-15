@@ -1,7 +1,7 @@
 # Portfolio Webiste
 <br>Created my own portfolio website using <b>ReactJS</b> and <b> Tailwind CSS </b>
 
-<b> Webiste Link ➡️ [here](https://tic-tac-toe-game-swart.vercel.app/)</b>
+<b> Webiste Link ➡️ [here](unrivaled-cajeta-1ebcbd.netlify.app/)</b>
 
 ## 📓 Tools used
 <b>IDE:</b> VS Code <br>
@@ -9,7 +9,9 @@
 Recat JS<br>
 Tailwind CSS<br>
 <b>Other:</b><br>
+npm pacakage manager<br>
 Getform.io for <br>
+uiverse.io<br>
 
 
 
