@@ -43,7 +43,7 @@ const Navbar = () => {
     
   return (
     <div className='flex justify-between items-center w-full h-20
-    text-white fixed px-4 bg-black'>
+    text-white fixed px-4 bg-black z-50'>
         <div>
         <img src={logo} alt="my logo" className='ml-2 w-40'/>
         </div>
