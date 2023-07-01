@@ -22,7 +22,7 @@ const Blog = () => {
             {
               projects.map(({id,src, href})=>(
                 <div key={id} className="max-w-sm  shadow-teal-300 rounded-lg shadow-md">
-                        <img class="rounded-t-lg" src={src} alt="Blog" />
+                        <img class="p-2 rounded-md" src={src} alt="Blog" />
                         <div class="p-5">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">React JS, Future of Web Development!!</h5>
                             <p class="mb-3 font-normal text-white text-justify">As technology continues to evolve, web development has become an increasingly important field, and front-end frameworks such as ReactJS have emerged as crucial tools for building dynamic, user-friendly websites.</p>
