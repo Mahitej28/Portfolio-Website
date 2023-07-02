@@ -1,7 +1,7 @@
 # Portfolio Webiste
 <br>Created my own portfolio website using <b>ReactJS</b> and <b> Tailwind CSS </b>
 
-<b> Webiste Link ➡️ [here](https://unrivaled-cajeta-1ebcbd.netlify.app/)</b>
+<b> Webiste Link ➡️ [here](https://mahimachuri.netlify.app/)</b>
 
 
 ## 🛠 Tools used
