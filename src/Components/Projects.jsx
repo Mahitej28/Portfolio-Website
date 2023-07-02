@@ -31,7 +31,7 @@ const Projects = () => {
   ];
   return (
     <div name='projects' className=' bg-gradient-to-b from-cyan-900 to-black w-full  text-white md:h-screen'>
-      <div className=' max-w-screen-lg  px-4 mx-auto flex flex-col justify-center w-full h-full'>
+      <div className=' max-w-screen-lg  px-4 mx-auto pt-20 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 border-gray-400'>Projects</p>
           <p className='pt-6'>Check out some of my work here:</p>
@@ -55,6 +55,9 @@ const Projects = () => {
           ))
         }
         </div>
+        <a href='https://github.com/Mahitej28?tab=repositories' target='_blank' rel="noreferrer">
+          <button className='bg-gradient-to-b from-blue-300 to-blue-500 text-white mx-auto flex items-center my-8 px-6 py-3 duration-300 hover:scale-110 rounded-md font-semibold'>View More</button>
+        </a>
       </div>
     </div>
   )
