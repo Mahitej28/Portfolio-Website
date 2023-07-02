@@ -157,7 +157,7 @@ const Skills = () => {
     const language = skill.filter((s)=> s.category==='language');
 
     return (
-        <div name="skills" className="bg-gradient-to-b from-black to-cyan-900 w-full min-h-screen pt-12">
+        <div name="skills" className="bg-gradient-to-b from-black to-cyan-900 w-full md:min-h-screen pt-12">
           <div className="max-w-screen-lg mx-auto p-4 text-white pt-500px">
             <div>
               <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline mt-18">
@@ -168,7 +168,7 @@ const Skills = () => {
           <div className='mt-10'> 
 
             <p className="text-4xl font-bold"> Frontend</p>
-              <div className="w-full grid grid-cols-2 sm:grid-cols-5 gap-10 text-center py-8 px-12 sm:px-0">
+              <div className="w-full grid sm:grid-cols-2 md:grid-cols-5 gap-10 text-center py-8 px-8 sm:px-0">
                 {frontend.map(({ id, src, title, style }) => (
                   <div
                     key={id}

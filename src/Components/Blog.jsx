@@ -28,7 +28,7 @@ const Blog = () => {
               <p className='py-6'>Check out my recent blogs:</p>
             </div>
     
-            <div className=' grid sm:grid-cols-2 md:grid-cols-2 gap-14 px-24 sm:px-0'> 
+            <div className=' grid sm:grid-cols-2 md:grid-cols-2 gap-10 px-12 sm:px-0'> 
             {
               projects.map(({id,src, href, title, des})=>(
                 <div key={id} className="max-w-sm  shadow-teal-300 rounded-lg shadow-md">
