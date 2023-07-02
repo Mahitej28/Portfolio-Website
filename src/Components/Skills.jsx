@@ -168,7 +168,7 @@ const Skills = () => {
           <div className='mt-10'> 
 
             <p className="text-4xl font-bold"> Frontend</p>
-              <div className="w-full grid sm:grid-cols-2 md:grid-cols-5 gap-10 text-center py-8 px-8 sm:px-0">
+              <div className="w-full grid sm:grid-cols-1 md:grid-cols-5 gap-10 text-center py-8 px-8 sm:px-0">
                 {frontend.map(({ id, src, title, style }) => (
                   <div
                     key={id}
