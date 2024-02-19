@@ -7,7 +7,7 @@ const About = () => {
         <div className='pb-8'>
             <p className=' text-4xl font-bold inline border-b-4 border-gray-500'>About Me</p>
         </div>
-        <p className=' text-xl mt-18 text-left'>Hello, I am Mahima Churi a third-year CS student from India, a Full Stack Web Developer who likes to build stuff that leads to an efficient mark. 
+        <p className=' text-xl mt-18 text-left'>Hello, I am Mahima Churi a final year CS student from India, a Full Stack Web Developer who likes to build stuff that leads to an efficient mark. 
           I am Highly responsible and organized individual with excellent writing and communication skills, along with critical thinking abilities and a deep understanding of web technologies and programming languages such as 
           HTML, CSS, JavaScript, and various server-side languages (Python, PHP, or Node.js).</p>
         <br/>
